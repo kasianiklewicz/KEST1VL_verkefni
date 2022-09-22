@@ -11,8 +11,9 @@ print(f"Breytan k inniheldur {k}!")
 ```
 
 ```c++
-Serial.begin(9600);
-Serial.println("einhver texti");
+Seria1.begin(9600);
+Seria1.println("einhver texti");
+
 ```
 
 ### Heading 3
@@ -22,19 +23,20 @@ Serial.println("einhver texti");
 til að gera backtick AltGr + + + space
 Þessi geymsla er fyrir verkefnin mín í KEST1VL áfanganum
 
-# asldfkjslkdf
+# dfehjfi
 
-Þetta **orð** er bold.<br>
-Þetta *orð* er italic.<br>
-Þetta ***orð*** er bæði bold og italic.
 
-Heimasíða tækniskólans er [hér](https://www.tskoli.is)
+þetta **orð** er bold.<br>
+þetta *orð* er italic.<br>
+þetta ***orð*** er bæði bold og italic.
+
+Heimsíða tækniskólans er [hér](https://www.tskoli.is)
 
 Hér er mynd:
-![Hér er mynd af skólanum](https://tskoli.is/wp-content/uploads/2020/10/mynd-syning-563x340.jpg)
+![Hér er mynd af skólanum](https://tskoli.is/wp-content/uploads/2020/10/mynd-syning-768x463.jpg)
 
-Dálkur 1 | Dálkur 2 | Dálkur 3
---- | :-: | --:
-abc | sjdklfsadfjklsfs | 23
-def | ghi | jkl
+Dálkur 1 | Dálkur 2 | Dálkur 3 |
+--- | --- |  --- |   
+abc | svghj | 23
+def | ygy | gsh 
 23 | 1 | p
